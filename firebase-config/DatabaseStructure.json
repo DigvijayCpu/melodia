@@ -1,0 +1,13 @@
+{
+  "songs": {
+    "song_001": {
+      "title": "Example Song",
+      "artist": "Example Artist",
+      "category": "hindi",
+      "url": "https://raw.githubusercontent.com/DigvijayCpu/melodia/main/songs/hindi/example.mp3",
+      "duration": "3:45",
+      "thumbnail": "https://via.placeholder.com/300",
+      "releaseDate": "2024-01-01"
+    }
+  }
+}
